@@ -31,7 +31,7 @@ And that led me into learning about **Vue Js** because after that angular experi
 
 That's when I saw people suggesting Vue, which got me interested but eventually due to my College work, I couldn't give much attention to it and then left it
 
-> While trying to learn about Vue I found this awesome Documentary on how Vue Came about which you should check out, [Link to the Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI&t=1653s)
+> While trying to learn about Vue I found this awesome Documentary on how Vue Came about which you should check out, [Link to the Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 
 Overall, In 2022 **I got to test many different technologies**
 
